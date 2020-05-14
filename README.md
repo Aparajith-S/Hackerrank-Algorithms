@@ -56,7 +56,13 @@ Sample Output
 	200
 
 ## Explanation
-After the first update list will be 100 100 0 0 0. 
-After the second update list will be 100 200 100 100 100. 
-After the third update list will be 100 200 200 200 100. 
+After the first update list will be 
+
+	100 100 0 0 0. 
+After the second update list will be 
+
+	100 200 100 100 100. 
+After the third update list will be 
+
+	100 200 200 200 100. 
 The required answer will be 200.
